@@ -56,5 +56,5 @@ The Linux file system is structured hierarchically, starting from a root directo
 ---
 ## 📸 Terminal Snapshot – Linux Commands
 
-![Linux Terminal Commands](assets/linux-commands.png)
+![Image](https://github.com/user-attachments/assets/d26d9ec7-fcf1-43ea-b37b-6e7041497b44)
 
